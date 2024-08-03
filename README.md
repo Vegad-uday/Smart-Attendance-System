@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Smart Attendance System** is a project designed to streamline and automate the process of recording attendance using advanced technologies like facial recognition and biometric fingerprint scanning. This system is ideal for educational institutions and organizations, aiming to optimize the teaching-learning time by reducing manual efforts and errors associated with traditional attendance methods.
+The **Smart Attendance System** is a project designed to streamline and automate the process of recording attendance using advanced technologies like facial recognition . This system is ideal for educational institutions and organizations, aiming to optimize the teaching-learning time by reducing manual efforts and errors associated with traditional attendance methods.
 
 ## Key Features
 
@@ -26,7 +26,7 @@ The **Smart Attendance System** is a project designed to streamline and automate
 
 ## Installation
 
-### Prerequisites
+###Required python Library 
 - Python 3.x
 - OpenCV
 - face_recognition library
