@@ -68,4 +68,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For questions or inquiries, please contact [vegaduday9@gmail.com](mailto:vegaduday9@gmail.com).
+For questions or inquiries, please contact [vegaduday1292@gmail.com](mailto:vegaduday1292@gmail.com).
